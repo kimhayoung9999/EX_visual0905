@@ -5,5 +5,6 @@ int main()
 {
 	std::cout << "Copy Hello World!" << std::endl;
 	std::cout << "Copy Hello Second World!" << std::endl;
+	std::cout << "Make Error" << std::endl;
 	return 0;
 }
